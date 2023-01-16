@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  phphelm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-16T05:49:08.46719899Z"
+    description: A Helm chart for Kubernetes
+    digest: e1bc81fd5d8df3882fc362b734592f607763bee380d37117ddd7e3df6e459d22
+    name: phphelm
+    type: application
+    urls:
+    - charts/phphelm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-16T05:49:08.466241328Z"
